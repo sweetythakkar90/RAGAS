@@ -1,0 +1,9 @@
+python-dotenv
+openai
+azure-ai-openai
+azure-search-documents
+langchain
+ragas
+pandas
+requests
+datasets
